@@ -32,35 +32,6 @@ The project covers:
 
 ---
 
-## 📂 Project Structure
-
-```
-E-Commerce-Sales-Analysis/
-│
-├── Dataset/
-│   ├── Raw_Dataset.xlsx
-│   └── Cleaned_Dataset.csv
-│
-├── Data Cleaning/
-│   └── Data_Cleaning.ipynb
-│
-├── EDA/
-│   └── Exploratory_Data_Analysis.ipynb
-│
-├── SQL/
-│   └── ecommerce_sales_analysis.sql
-│
-├── Power BI/
-│   └── E-Commerce Dashboard.pbix
-│
-├── Images/
-│   └── Dashboard.png
-│
-└── README.md
-```
-
----
-
 ## 📊 Project Workflow
 
 ```
