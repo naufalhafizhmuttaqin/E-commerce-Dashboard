@@ -131,14 +131,6 @@ The interactive dashboard includes:
 
 ---
 
-## 📸 Dashboard Preview
-
-> *(Insert dashboard screenshot here)*
-
-![Dashboard](Images/dashboard.png)
-
----
-
 ## 💡 Key Insights
 
 - Revenue trends can be monitored over time.
@@ -169,6 +161,6 @@ GitHub:
 https://github.com/naufalhafizhmuttaqin
 
 LinkedIn:
-*(Add your LinkedIn URL here)*
+https://www.linkedin.com/in/naufalhafizhmuttaqin/
 
 ---
